@@ -1,0 +1,13 @@
+{
+  "name": "genpark-loopy-belief-propagation-factor-graph-skill",
+  "version": "1.0.0",
+  "description": "Loopy Belief Propagation (LBP) engine on general factor graphs with sum-product message passing and damping to solve approximate inference on cyclic topologies.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "belief-propagation",
+    "factor-graphs",
+    "sum-product",
+    "approximate-inference"
+  ]
+}
